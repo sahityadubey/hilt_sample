@@ -51,17 +51,12 @@ com.sahitya.hilt_sample
 
 1. Clone this repo:
    ```bash
-   git clone https://github.com/your-username/hilt_sample.git
+   git clone https://github.com/sahityadubey/hilt_sample.git
    ```
 2. Open it in Android Studio.
 3. Build and run the app on an emulator or device.
 4. 🎉 You're good to go!
 
----
-
-## 📖 License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
